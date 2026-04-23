@@ -706,7 +706,6 @@
             android:layout_marginTop="22dp"
             android:layout_marginEnd="12dp"
 
-            android:layout_marginBottom="112dp"
 
             android:background="@drawable/banner_musica_atual"
 
@@ -910,7 +909,6 @@
             android:layout_width="35dp"
             android:layout_height="35dp"
             android:layout_marginTop="15dp"
-            android:layout_marginBottom="55dp"
             android:src="@drawable/criar"
 
             android:layout_marginEnd="25dp"
