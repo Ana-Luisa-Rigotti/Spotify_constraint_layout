@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="preto">#FF000000</color>
+    <color name="branco">#FFFFFFFF</color>
+
+    <color name="branco_textos">#D5D4D4</color>
+    <color name="cor_subtitulos">#828282</color>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Spotify_constraint_layout</string>
+
+    <string name="nome_playlist">Zeze di Camargo e\nLuciano ANTIGAS</string>
+    <string name="letra_criador_playlist">C</string>
+    <string name="nome_criador_playlist">Camila Alves</string>
+    <string name="numero_salvos">544.700 saves</string>
+    <string name="tempo_playlist">9h 0m</string>
+
+    <string name="ponto_separacao">•</string>
+
+    <string name="primeiro_album">Sem Medo de Ser Feliz</string>
+    <string name="autor_um">Zeze Di Camargo &amp; Luciano</string>
+
+    <string name="segundo_album">Você Vai Ver</string>
+    <string name="terceiro_album">Faz Mais uma Vez Comigo</string>
+    <string name="quarto_album">Cada Volta é um Recomeço - Ao Vivo</string>
+    <string name="quinto_album">No Dia em que Eu Saí de Casa</string>
+    <string name="sexto_album">Pão de Mel</string>
+    <string name="setimo_album">Toma Juízo - Ao Vivo</string>
+
+    <string name="nome_musica_ouvindo">Blacklight - Club Mix</string>
+    <string name="autor_dois">Kush Kush, Sickmellow, Kazhi</string>
+
+    <string name="home">Home</string>
+    <string name="pesquisar">Search</string>
+    <string name="biblioteca">Your Library </string>
+    <string name="premium">Premium</string>
+    <string name="criar">Create</string>
+</resources>
